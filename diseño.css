@@ -1,0 +1,67 @@
+body{
+    background-color:blueviolet;
+}
+    
+.form-group{
+    display: center;
+}
+
+#lista-tabla{
+    display: flex;
+    color: brown;
+    
+}
+
+
+    /*
+}
+
+th, tr{
+border: solid 1px black;
+padding: 1%;
+}
+
+thead{
+    background-color: #246355;
+    color:white;
+    border-bottom: solid 5px #0F362D ;
+}
+
+tr;:nth-child(even){
+background-color: #ddd;
+}
+
+.container{
+    width: 1100px;
+    margin: 0px auto;
+    
+}
+
+.titulo{
+    color:black;
+    margin: 0px auto;
+    border: 1px solid black;
+    
+}
+
+.col-6{
+    color:black;
+    margin: 0px auto;
+    border: 1px solid black;
+    display: flex;
+}
+
+.form-group{
+    color:black;
+    margin: 0px auto;
+    border: 1px solid black;
+
+
+}
+
+#lista-tabla{
+    display: flex;
+    color: brown;
+    
+}
+
